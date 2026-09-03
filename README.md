@@ -1,7 +1,7 @@
 # 💻 TMONITRAJ-DROID // CORES
 
 <p align="center">
-  <img src="https://demolab.com" alt="Terminal Matrix Loop" />
+  <code>▶ <marquee direction="left" scrollamount="4" width="80%">[[ SYSTEM ACTIVE ]] ... INITIALIZING 4 CORE PIPELINES ... CONFIGURING NODE: NAGPUR, INDIA ...</marquee></code>
 </p>
 
 ```yaml
