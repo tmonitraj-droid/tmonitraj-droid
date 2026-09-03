@@ -1,8 +1,11 @@
 # 💻 TMONITRAJ-DROID // CORES
 
-<p align="center">
-  <code>▶ <marquee direction="left" scrollamount="4" width="85%">[[ INITIALIZING SYSTEM DIAGNOSTICS ]] ... MODULE ACTIVE CORE LOADED ... TERMINAL LINK ROUTING TO NAGPUR, INDIA ...</marquee></code>
-</p>
+```text
+[SYSTEM INTERFACE INITIALIZED]
+▶ STATUS   : Active Processing Core Online
+▶ TIMELINE : ACTIVE RUNTIME LOOP SEQUENCE
+▶ TRACK    : ENTIRE APP PIPELINE SYNCHRONIZED SUCCESSFULLY
+```
 
 ```yaml
 🛰️ LOCATION_NODE : Nagpur, Maharashtra, India [Asia/Calcutta]
