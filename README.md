@@ -1,9 +1,3 @@
-<!-- MODE-DETERMINISTIC BANNER INTERFACE -->
-<p align="center">
-  <img src="./dark.svg#gh-dark-mode-only" alt="Neural Core Interface" width="100%">
-  <img src="./light.svg#gh-light-mode-only" alt="Neural Core Interface" width="100%">
-</p>
-
 <!-- EXCLUSIVE REAL-TIME TELEMETRY MATRIX -->
 <p align="center">
   <a href="https://git.io">
@@ -19,6 +13,15 @@
 🛰️ LOCATION_NODE : Nagpur, Maharashtra, India [Asia/Calcutta]
 📡 STATUS        : Active Software Engineering Core
 🔋 INTEGRITY     : 100% Operational
+```
+
+---
+
+## 🛠️ ECOSYSTEM CORE METRICS
+```text
+[ENGINE COMPILER]: ACTIVE LANGUAGE SPECS
+Python Core      [=====================================>      ] 82% (nagpur-genai-assistant)
+JavaScript Core  [====================>                       ] 45% (gemini-journal)
 ```
 
 ---
