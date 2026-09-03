@@ -1,7 +1,7 @@
 # 💻 TMONITRAJ-DROID // CORES
 
 <p align="center">
-  <code>▶ <marquee direction="left" scrollamount="4" width="80%">[[ SYSTEM ACTIVE ]] ... INITIALIZING 4 CORE PIPELINES ... CONFIGURING NODE: NAGPUR, INDIA ...</marquee></code>
+  <code>▶ <marquee direction="left" scrollamount="4" width="85%">[[ INITIALIZING SYSTEM DIAGNOSTICS ]] ... MODULE ACTIVE CORE LOADED ... TERMINAL LINK ROUTING TO NAGPUR, INDIA ...</marquee></code>
 </p>
 
 ```yaml
