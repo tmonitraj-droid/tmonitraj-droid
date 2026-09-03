@@ -7,12 +7,16 @@
 
 <p align="center">
   <img src="https://shields.io" alt="Dynamic Repo Counter" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Secure Node" />
+  </a>
 </p>
 
 ```yaml
 🛰️ LOCATION_NODE : Nagpur, Maharashtra, India [Asia/Calcutta]
 📡 STATUS        : Active Software Engineering Core
 🔋 INTEGRITY     : 100% Operational
+🔗 COM_UPLINK    : https://linkedin.com
 ```
 
 ---
