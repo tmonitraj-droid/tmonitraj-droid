@@ -1,7 +1,10 @@
 <!-- MODE-DETERMINISTIC BANNER INTERFACE -->
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Neural Core Interface" width="100%">
-  <img src="https://githubusercontent.com" alt="Neural Core Interface" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="Neural Core Interface" src="https://githubusercontent.com" width="100%">
+  </picture>
 </p>
 
 <!-- EXCLUSIVE REAL-TIME TELEMETRY MATRIX -->
@@ -15,17 +18,3 @@
     <img src="https://shields.io" alt="LinkedIn Secure Node" />
   </a>
 </p>
-
-```yaml
-🛰️ LOCATION_NODE : Nagpur, Maharashtra, India [Asia/Calcutta]
-📡 STATUS        : Active Software Engineering Core
-🔋 INTEGRITY     : 100% Operational
-🔗 COM_UPLINK    : https://linkedin.com
-```
-
----
-
-## 🛠️ ECOSYSTEM CORE METRICS
-*Detailed language stats and system pipelines for active repositories including `delivery-route-optimization`, `retail-inventory-waste-reduction`, `nagpur-genai-assistant`, and `gemini-journal` are configured in your profile README template.*
-
-<p align="center">⚙️ <i>This control console architecture scales dynamically as new repositories initialize.</i> ⚙️</p>
