@@ -1,3 +1,9 @@
+<!-- MODE-DETERMINISTIC BANNER INTERFACE -->
+<p align="center">
+  <img src="dark.svg#gh-dark-mode-only" alt="Neural Core Interface" width="100%">
+  <img src="light.svg#gh-light-mode-only" alt="Neural Core Interface" width="100%">
+</p>
+
 <!-- EXCLUSIVE REAL-TIME TELEMETRY MATRIX -->
 <p align="center">
   <a href="https://git.io">
